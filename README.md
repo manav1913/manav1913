@@ -65,7 +65,7 @@ Visual debugger for multi-agent AI systems. Design, execute, and profile complex
 - 🎓 University of Mumbai
 - 🌍 Mumbai, India — open to remote roles worldwide
 - 📫 manavparad4@gmail.com
-- 💼 Available immediately · No notice period
+- 💼 Available immediately ·
 
 ---
 
