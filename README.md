@@ -21,7 +21,7 @@ AI-powered dental appointment platform with voice assistant, booking system, and
 - **Stack:** Next.js 15 · TypeScript · Clerk · Supabase · Prisma · Vapi AI · Resend · shadcn/ui
 - **Features:** AI voice assistant for dental queries, appointment booking, admin panel, email notifications
 
-### 🧠 FlowMind — Visual Debugger for Multi-Agent AI Pipelines
+### 🧠 [FlowMind](https://github.com/manav1913/flowmind) — [Live Demo](https://flowmind-silk-six.vercel.app/dashboard)
 Visual debugger for multi-agent AI systems. Design, execute, and profile complex AI pipelines with real-time latency attribution, token tracking, and execution transparency.
 - **Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
 - **Features:** Pipeline visualiser, latency profiling, token cost tracking, retry cascade detection
