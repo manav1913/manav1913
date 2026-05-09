@@ -1,18 +1,76 @@
-# 💫 About Me:
-# Hi, I'm Manav 👋<br><br>Frontend developer specialising in building full-stack web applications<br>with Next.js, TypeScript, Supabase, and AI integrations.<br><br>I focus on shipping real products — not just tutorials.<br>Currently open to frontend roles at startups.<br><br>🎓 University of Mumbai  <br>🌍 Mumbai, India — Open to remote roles worldwide  <br>📫 manavparad4@gmail.com
+<div align="center">
 
+# Hi, I'm Manav 👋
+### Frontend Developer · Next.js · TypeScript · Supabase · AI Integrations
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manav-p-86b2652a3/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Maddyy660263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manavparad4@gmail.com) 
+I build full-stack web applications that ship — not just tutorials.
+Currently open to frontend roles at startups.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manav1913&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manav1913&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manav1913&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manav-p-86b2652a3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavparad4@gmail.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://denti-q.vercel.app)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manav1913&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 Featured Projects
+
+### 🦷 [DentiQ](https://github.com/manav1913/DentiQ) — [Live Demo](https://denti-q.vercel.app)
+AI-powered dental appointment platform with voice assistant, booking system, and admin dashboard.
+- **Stack:** Next.js 15 · TypeScript · Clerk · Supabase · Prisma · Vapi AI · Resend · shadcn/ui
+- **Features:** AI voice assistant for dental queries, appointment booking, admin panel, email notifications
+
+### 🧠 FlowMind — Visual Debugger for Multi-Agent AI Pipelines
+Visual debugger for multi-agent AI systems. Design, execute, and profile complex AI pipelines with real-time latency attribution, token tracking, and execution transparency.
+- **Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
+- **Features:** Pipeline visualiser, latency profiling, token cost tracking, retry cascade detection
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Auth & Integrations**
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Manav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manav1913&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manav1913&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 📬 Get in Touch
+
+- 🎓 University of Mumbai
+- 🌍 Mumbai, India — open to remote roles worldwide
+- 📫 manavparad4@gmail.com
+- 💼 Available immediately · No notice period
+
+---
+
+<div align="center">
+
+*"Ship it. Then make it better."*
+
+</div>
