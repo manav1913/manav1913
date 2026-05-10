@@ -48,15 +48,7 @@ Visual debugger for multi-agent AI systems. Design, execute, and profile complex
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Manav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manav1913&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manav1913&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
 
 ---
 
